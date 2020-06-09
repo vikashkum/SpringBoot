@@ -19,7 +19,7 @@ metadata:
     kubernetes.io/ingress.class: addon-http-application-routing
 spec:
   rules:
-  - host: springboot.vikash.dxc
+  - host: 73e8dcf6445740feb57a.westeurope.aksapp.io
     http:
       paths:
       - backend:
